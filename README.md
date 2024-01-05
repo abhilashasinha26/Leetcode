@@ -1,2 +1,3 @@
 # Leetcode
-My practice and solutions of the leetcode problems
+My practice and solutions to the Leetcode problems
+You can see the solutions in java
